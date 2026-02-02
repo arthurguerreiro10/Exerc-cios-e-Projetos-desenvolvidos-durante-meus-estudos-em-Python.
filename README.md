@@ -1,1 +1,1 @@
-# Exerc-cios-e-Projetos-desenvolvidos-durante-meus-estudos-em-Python.
+# Exercicios-e-Projetos-desenvolvidos-durante-meus-estudos-em-Python.
